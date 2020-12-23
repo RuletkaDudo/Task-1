@@ -13,9 +13,12 @@ public class Program
             Console.Write(i + " ");
         }
     }
-
     public void a()
     {
-        Console.WriteLine('123');
+        Console.WriteLine("123");
+    }
+    public void b()
+    {
+        Console.WriteLine("321");
     }
 }
