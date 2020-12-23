@@ -4,8 +4,6 @@ public class Program
 {
 	public static void Main()
 	{
-        int a = 12;
-        int b = 3 * a;
         Console.WriteLine("new World TEXT");
         int[] mas = { 1, 12, 42, 4, 9, 1, 32 };
         Array.Sort(mas);
