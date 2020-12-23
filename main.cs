@@ -13,4 +13,9 @@ public class Program
             Console.Write(i + " ");
         }
     }
+
+    public void a()
+    {
+        Console.WriteLine('123');
+    }
 }
